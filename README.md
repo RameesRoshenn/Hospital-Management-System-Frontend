@@ -1,3 +1,12 @@
+## For Administration Login
+For administrative access, follow these steps:
+
+To Open the main website:-
+Append '/adlogin' to the URL.
+Use the following credentials:
+## Username: admin1
+##  Password: 12345
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
