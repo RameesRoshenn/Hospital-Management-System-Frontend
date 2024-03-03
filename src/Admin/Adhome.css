@@ -1,0 +1,14 @@
+.status-card{
+    margin-right: 50px;
+}
+
+@media only screen and (max-width: 768px) {
+    .status-cards-container {
+      justify-content: flex-end;
+    }
+    .status-card{
+        margin-left: 150px;
+        flex-direction: column;
+        
+    }
+  }
